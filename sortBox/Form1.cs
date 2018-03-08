@@ -16,5 +16,25 @@ namespace sortBox
         {
             InitializeComponent();
         }
+
+        private void toolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void toolStripMenuItem3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void toolStripMenuItem10_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void toolStripMenuItem5_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
